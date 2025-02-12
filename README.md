@@ -30,7 +30,7 @@
 <h2>Installation</h2>
 
 <p><strong>Clone the repository:</strong></p>
-<pre><code>git clone https://github.com/team-envision/SymphonySmith.git
+<pre><code>git clone https://github.com/Harshitnotani/Music-gen.git
 cd Music Gen
 </code></pre>
 
