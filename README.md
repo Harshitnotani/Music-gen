@@ -42,8 +42,8 @@ cd Music Gen
 
 </ul>
 <h3>How to Run</h3>
-<p>To run Symphony Smith, execute the following command in the terminal:</p>
-<pre><code>streamlit run symphony.py</code></pre>
+<p>To run Music Gen, execute the following command in the terminal:</p>
+<pre><code>streamlit run MusicGen.py</code></pre>
 <p>This will launch the app in your default browser.</p>
 
 <h2>Usage</h2>
