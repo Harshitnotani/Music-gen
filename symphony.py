@@ -49,7 +49,7 @@ def welcome_page():
 
 # Main page function
 def main_page():
-    with open('ssbg.jpg', "rb") as image_file:
+    with open('MusicGenImage.jpg', "rb") as image_file:
         encoded_image_2 = base64.b64encode(image_file.read()).decode()
 
     st.markdown(f"""
